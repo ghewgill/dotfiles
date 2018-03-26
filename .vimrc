@@ -1,9 +1,18 @@
 set autoindent
+set autoread
 set expandtab
+set hlsearch
+set incsearch
+set ignorecase
+set list
+set listchars=tab:>-,trail:.
+set noequalalways
+set ruler
 set softtabstop=4
 set shiftwidth=4
 set showmatch
-set incsearch
+set smartcase
+set textwidth=0
 set wmh=0
 
 map <c-j> <c-w>j<c-w>_
