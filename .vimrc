@@ -1,5 +1,6 @@
 set autoindent
 set autoread
+set directory=~/tmp,/var/tmp,/tmp
 set expandtab
 set hlsearch
 set incsearch
@@ -8,6 +9,7 @@ set list
 set listchars=tab:>-,trail:.
 set noequalalways
 set nojoinspaces
+set path=.,**,,
 set ruler
 set softtabstop=4
 set shiftwidth=4
